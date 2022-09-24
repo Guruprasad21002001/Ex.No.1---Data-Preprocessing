@@ -89,5 +89,5 @@ print(df1)
 ![OP6](https://user-images.githubusercontent.com/95342910/192080478-7cc7c62b-8b18-441f-820c-d61b632639a3.png)
 
 
-##RESULT
- Thus the above program for standardizing the given data was implemented successfully
+## RESULT
+Thus the above program for standardizing the given data was implemented successfully
