@@ -90,4 +90,4 @@ print(df1)
 
 
 ##RESULT
-Thus the above program for standardizing the given data was implemented successfully
+ Thus the above program for standardizing the given data was implemented successfully
